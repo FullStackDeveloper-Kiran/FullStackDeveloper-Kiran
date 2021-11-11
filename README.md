@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FullStackDeveloper-Kiran
-- 👀 I’m interested in coding and developing
+- 👀 I’m interested in Coding and Developing
 - 🌱 I’m currently as Full Stack Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
