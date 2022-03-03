@@ -9,11 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack & MARN Stack**
+- 🌱 I’m currently learning **PERN Stack, MERN Stack & MARN Stack**
 
 - 📝 I regularly write articles on [https://theinkblotters287536017.wordpress.com](https://theinkblotters287536017.wordpress.com)
 
-- 💬 Ask me about **MY SQL, SQLite, ORACLE**
+- 💬 Ask me about **MY SQL, SQLite, PostgreSQL, SQL Server, Sybase, Informix, Cloudera, MariaDB, Seqel PRO, DbVisualizer, AmazonRDS
+CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, OrientDB, Altibase, ORACLE**
 
 - 📫 How to reach me **fullstackdeveloperkiran11@gmail.com**
 
