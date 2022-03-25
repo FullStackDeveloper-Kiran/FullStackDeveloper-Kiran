@@ -36,5 +36,595 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstackdeveloper-kiran&" alt="fullstackdeveloper-kiran" /></p>
 
+<h2>ReactJS Projects <img src="https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png" alt="react" width="250" height="250"/>
+ </h2>
+  </br></br>
+<details align="left">
+  <summary>ReactJS Projects </summary>
+  
+  <details>
+    <summary> Emoji Game </summary>
+    <h3 margin-left="40px">Project Title: Emoji Game <img width="250" height="140" src="https://i.pinimg.com/originals/db/05/a0/db05a03b2adcfedd15c8b91e48cb99a4.gif"></h3>
+    <h3>Project description:</h3><p>A basic memory game developed using react concepts. Player needs to remember emoji clicked each time to win the game.(i.e 12/12 is      win). Since its a dynamic application emojis gets shuffled immediately after clicking a emoji. Refer 
+    <a href="https://github.com/kasivivekkasivivek/emoji-game-react-15#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/emoji-game-react-15">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://emojigame1.netlify.app/">Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>IPL Dashboard</summary>
+    <h3>Project Title: IPL Dashboard <img width="200" height="100" src="https://i.imgur.com/WaPMkgi.gif"></h3>
+    <h3>Project description:</h3><p>A IPL Dashboard application that allows to navigate through other urls with the routing method. Its a completely responsive               reactjs application . Refer 
+    <a href="https://github.com/kasivivekkasivivek/IPL-Dashboard-App-react-20#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/IPL-Dashboard-App-react-20">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://agitated-torvalds-91426e.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+   <summary>Github Popular Repositories</summary>
+    <h3>Project Title: Github Popular Repositories <img width="120" height="120" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif">            </h3>
+    <h3>Project description:</h3><p>A simple web application that gives out the popular repositories of each language selected.It get the data from the web API's.            Refer 
+    <a href="https://github.com/kasivivekkasivivek/Github-Popular-Repos-react-19#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Github-Popular-Repos-react-19">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://affectionate-haibt-c64cd3.netlify.app/">Click Me !</a></h3>
+  </details>
+  
+   <details>
+      <summary>Coffee Planner Application </summary>
+      <h3>Project Title: Coffee Planner Application 
+        <img width="200" height="120" src="https://i.pinimg.com/originals/0a/d4/22/0ad4220fa51ed227273698d0ff48ee5b.gif"></h3>
+      <h3>Project description:</h3><p>The application takes input from the user to create a specific coffee planner on clicking create a coffee plan button. Refer 
+      <a href="https://github.com/kasivivekkasivivek/coffee-planner-application-react-13#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/coffee-planner-application-react-13">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://hungry-poitras-719752.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Random Password Generator</summary>
+    <h3>Project Title: Random Password Generator <img width="250" height="250" src="https://cnet4.cbsistatic.com/img/73gmAv9Iu3BXf3oZ6cDQ2v3JxuU=/2017/04/21/5b8ac90a-9204-4050-b93c-36e304bdb77c/gif-password.gif"></h3>
+    <h3>Project description:</h3><p>A ReactJS application developed using the concepts of components , state and props to generate a random password. User can set the length of password (5-25) and  also select which characters can be includes in the password. Users can generate a random quick password (standard password length-8 and include uppercase , lowercase , numbers, special characters). Refer 
+    <a href="https://github.com/kasivivekkasivivek/ReactJS-random-password-generator#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-random-password-generator">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://randompasswordgen.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Digital Timer (Study Timer)</summary>
+    <h3>Project Title: Digital Timer (Study Timer) <img width="250" height="250" src="https://thumbs.gfycat.com/DependentNegativeFattaileddunnart-size_restricted.gif"></h3>
+    <h3>Project description:</h3><p> A ReactJS application built using the concepts of component, state and its functions. SetTimeout API's are used to set are clear the time. User can increase/ decrease the time as per the requirement and once the time start it gets disabled.Refer 
+    <a href="https://github.com/kasivivekkasivivek/ReactJS-digital-timer#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-digital-timer">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivek-digitalclock.netlify.app/"> Click ME !</a></h3>
+  </details>
+  
+   <details>
+       <summary>Stop Watch</summary>
+      <h3>Project Title: Stop Watch <img width="120" height="100" src="https://i.pinimg.com/originals/01/28/46/0128468e98f1312cb40ef96218f4f6a5.gif"></h3>
+      <h3>Project description:</h3><p>A complete stop watch is created using concepts of component life cycle in react with decent UI. Refer 
+      <a href="https://github.com/kasivivekkasivivek/stop-watch-react-12#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/stop-watch-react-12">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://inspiring-stonebraker-dafc01.netlify.app/">Click Me !</a></h3>
+  </details>
+  
+   <details>
+      <summary>Interview Questions Filter</summary>
+      <h3>Project Title: Interview Questions Filter 
+        <img width="200" height="140" src="https://miro.medium.com/max/1400/1*9BrpVqQkpXGPP4fLcrk5Dw.gif"></h3>
+      <h3>Project description:</h3><p>Sort the questions based on user requirements i.e if we have various levels of questions like easy, medium and Hard and if we           want to solve only easy questions we can sort them based on user input. Similarly we can choose subject from which we need to get questions i.e HTML, CSS,                   JavaScript. Refer 
+      <a href="https://github.com/kasivivekkasivivek/Interview-Questions-filter-react-14#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/Interview-Questions-filter-react-14">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://romantic-euler-d0a703.netlify.app/">Click Me !</a></h3>
+  </details>
+  
+  <details>
+      <summary>Portfolio Application</summary>
+      <h3>Project Title : Portfolio Application <img width="200" height="130" src="https://cdn.dribbble.com/users/1092116/screenshots/4338810/my-portfolio-header.gif"></h3>
+      <h3>Project description:</h3><p>A complete portfolio application which is a responsive web design. Refer 
+      <a href="https://github.com/kasivivekkasivivek/Portfolio-application-react-11#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/Portfolio-application-react-11">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://sleepy-leavitt-82cef5.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+      <summary>Gallary Application</summary>
+      <h3>Project Title: Gallary Application <img width="200" height="130" src="https://cdn.dribbble.com/users/183082/screenshots/4279947/illo_browse_2.gif"></h3>
+      <h3>Project description:</h3><p>A gallery application with set of thumbnail images and a main image which is completely responsive in design created using react concepts. Refer 
+      <a href="https://github.com/kasivivekkasivivek/Gallery-Application-react-10#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/Gallery-Application-react-10">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://tender-nobel-66bf6e.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+      <summary>Frequently Asked Questions</summary>
+      <h3>Project Title: Frequently Asked Questions <img width="250" height="130" src="https://static.wixstatic.com/media/6e51ea_b20110d8e8c04018813c6d859273c14f~mv2.gif"></h3>
+      <h3>Project description:</h3><p>A basic react application that allows user to interact with it. On clicking the plus icon text gets expanded and onClick minus            icon text gets hidden. Refer 
+      <a href="https://github.com/kasivivekkasivivek/Frequently-Asked-Questions-demoApplication-react-5#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/Frequently-Asked-Questions-demoApplication-react-5">Source Code Git Hub 1 </a></h3>
+      <h3>Live Demo :<a href="https://reverent-mirzakhani-520d20.netlify.app/"> Click Me !</a></h3>
+     <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-FAQApplication/blob/main/README.md">Source Code Git Hub 2</a></h3>
+      <h3>Live Demo :<a href="https://faq-application.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+      <summary>Even odd Random Increment</summary>
+      <h3>Project Title: Even odd Random Increment <img width="140" height="60" src="https://dryuc24b85zbr.cloudfront.net/tes/resources/11728430/image?width=500&height=500&version=1506011068405"></h3> 
+      <h3>Project description:</h3><p>A demo react application that increase the number randomly on clicking the increment button and information whether number is               even        or odd is displayed. Refer 
+      <a href="https://github.com/kasivivekkasivivek/even-add-random-increment-2#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/even-add-random-increment-2">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://jovial-johnson-1c44df.netlify.app/">Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Toss Game </summary>
+    <h3>Project Title: Toss Game <img width="150" height="150" src="https://freight.cargo.site/t/original/i/8c26cb1e6d8b7aead75057ad75428318b5e604d054e018e62d7b3a628c6bb70b/coinflip_01.gif"></h3>
+    <h3>Project description:</h3><p>A Sample ReactJS application developed using the concepts of state and components. When the user clicks on toss the application total no of tosses and Heads, Tails get updated . Refer 
+    <a href="https://github.com/kasivivekkasivivek/ReactJS-toss-game#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/ReactJS-toss-game">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivek-tossgame.netlify.app/"> Click ME !</a></h3>
+  </details>
+  
+  <details>
+      <summary>Googel Search Suggestion</summary>
+      <h3>Project Title: Googel Search Suggestion <img width="200" height="120" src="http://www.google.com/logos/doodles/2020/thank-you-food-service-workers-6753651837108761-2xa.gif"> </h3>
+      <h3>Project description:</h3><p>A dynamic web application for google suggestion developed using the concepts of react js and its concepts like state , component          and javascript. Refer 
+      <a href="https://github.com/kasivivekkasivivek/Google-Search-Suggestions-reactjs-28#readme">ReadMe</a> for better Understanding</p>
+      <h3><a href="https://github.com/kasivivekkasivivek/Google-Search-Suggestions-reactjs-28">Source Code Git Hub</a></h3>
+      <h3>Live Demo :<a href="https://hardcore-einstein-d98bd1.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Feedback Application</summary>
+    <h3>Project Title: Feedback Application <img width="220" height="130" src="https://miro.medium.com/max/1600/1*kUIH2-Er0EqNFo2PTeXSoQ.gif"></h3>
+    <h3>Project description:</h3><p>Take user feedback using emojis and reflect a thankyou message on click of a emoji. Refer 
+    <a href="https://github.com/kasivivekkasivivek/Feedback-Application-react-9#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Feedback-Application-react-9">Source Code Git Hub</a></h3>
+  </details>
+  
+   <details>
+    <summary>Letters Calculator </summary>
+    <h3>Project Title: Letters Calculator <img width="350" height="200" src="https://camo.githubusercontent.com/3b45daf0e2a76e0398abcb8d5da75b29013421c97f4c23f00171a99ffbd24c83/68747470733a2f2f6173736574732e636362702e696e2f66726f6e74656e642f636f6e74656e742f72656163742d6a732f6c6574746572732d63616c63756c61746f722d6f75747075742e676966"></h3>
+    <h3>Project description:</h3><p> A responsive react js web application which gives the length of word based on userinput. Refer 
+    <a href="https://github.com/kasivivekkasivivek/letters-calculator-react-7#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/letters-calculator-react-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vigilant-darwin-b7cad5.netlify.app/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>cascade slider review application</summary>
+    <h3>Project Title: cascade slider review application <img width="200" height="150" src="https://camo.githubusercontent.com/c7c89cae35683ed3a12d1f1614576c84c931b42d75a5c114b597f9807f2e8e55/68747470733a2f2f6173736574732e636362702e696e2f66726f6e74656e642f636f6e74656e742f72656163742d6a732f726576696577732d6170702d6f75747075742d76322e676966"></h3>
+    <h3>Project description:</h3><p>A demo cascade slider review application using react concepts. Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/cascasdeSlider-review-application-react-4">Source Code Git Hub</a></h3>
+    <h3>Live Demo : <a href="https://vibrant-liskov-e2eb3c.netlify.app/">Check Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Age Calculator</summary>
+    <h3>Project Title: Age Calculator <img width="250" height="120" src="https://www.knowastro.com/cdn//site/images/agecalc.gif"></h3>
+    <h3>Project description:</h3><p>When the user enters the birth year in the input box the application should find out the age of person. Refer 
+    <a href="https://github.com/kasivivekkasivivek/Age-Calculator-react-8#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Age-Calculator-react-8">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://loving-wing-6c8ede.netlify.app/"> Click Me !</a></h3>
+  </details>
 
-<h2>Have A look at some of my projects (expand each section to view my projects)</h2>
+</details>
+</br>
+<hr>
+</br></br></br>
+<h2> Dynamic Web Applications <img width="300" height="150" src="https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif"></h2>
+</br></br>
+<details>
+  <summary> Dynamic Web Applications </summary>
+
+  
+  <details>
+    <summary>Wikipedia search Application</summary>
+    <h3>Project Title: Wikipedia search Application <img width="200" height="200" src="https://media.tenor.com/images/198413e86dd33740aacf7548da9a8a41/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application which is a clone of Wikipedia Search Application. On user input it displays the various link from the API used.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Wikipedia-Search-Application-dynamic-webapplication-8">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://wikipediaapp1.ccbp.tech/"> Click Me !</a></h3>
+  </details>  
+  
+  <details>
+    <summary> Movies Application</summary>
+    <h3>Project Title: Movies Application<img width="250" height="250" src="https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application is created using the movies api where the user can fetch latest movies, top rated movies, Current Movies, Upcoming Movies and can also store movies as favorite movies.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/movies-app-dynamic-web-application">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://moviesapp.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  
+   <details>
+    <summary>ToDo Web Application</summary>
+    <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/f33074eacd09458f16701c94e87b8034/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A todo responsive web application where the user can add a new todo, can store it in local storage, mark it as completed, 
+     delete it.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/todo-application-responsive-dynamic-web-application-1">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivektodo.ccbp.tech/"> Click ME !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Search the Book </summary>
+    <h3>Project Title: Search for the Book <img width="90" height="250" src="https://assets.ccbp.in/frontend/content/dynamic-webapps/book_search_output.gif"></h3>
+    <h3>Project description:</h3><p>A dynamic web application is created using the concepts of javascript where user can search for the book using the keywords.Based on user input API returns list of books. Users can increase the range of books from 10 (default) to 30.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Book-Search-dynamic-webapplication-19">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://booksearch1.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Speed Typing Test</summary>
+    <h3>Project Title: Fast typing Test <img width="250" height="120" src="https://www.abington.k12.pa.us/tech-savvy/media/sites/tech-savvy/posts/2015/04/computer-keyboard.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that is used to test the typing speed of the user. The application fetches a random text from the api on every reload/reset.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Speed-Typing-Test-dynamic-webapplication-18">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://typingspeed1.ccbp.tech/"> Click Me !</a> <img width="100" height="50" src="https://www.massivedynamics.co.in/home/assets/click-me-arrow.gif"></h3>
+  </details>
+  
+  <details>
+    <summary>Know the fact about the number </summary>
+    <h3>Project Title: Know the fact about the number <img width="100" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/numbers-fact-v1.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that fetches the facts data about the number from web API's on user input.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Know-Fact-About-the-Number-12">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://numberinfo.ccbp.tech/">Click Me !</a><img width="100" height="50" src="https://i.pinimg.com/originals/13/fa/be/13fabe368d08211706da14d461727b50.gif"></h3>
+  </details>
+  
+  <details>
+    <summary>Countries Search </summary>
+    <h3>Project Title: Countries Search <img width="150" height="150" src="https://diitc.com/wp-content/uploads/2021/03/diitc.global.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic responsive web application that displays the various countries information along with its flags. User can get the selected country info from user input search bar and results are drawn based on pattern matching format.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Countries-Search-Page-dynamic-webapplication-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<img width="90" height="60" src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0009.gif">
+      <a href="https://countrysearch1.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>A Moment Of Peace Timer </summary>
+    <h3>Project Title: A Moment Of Peace Timer <img width="250" height="220" src="https://64.media.tumblr.com/95e81f14b10bae08c8b8b82ec4850e2b/tumblr_ntnqcrShyQ1u699duo2_r1_1280.gifv"></h3>
+    <h3>Project description:</h3><p> A responseive dynamic web application developed using the concepts of setTimeOut and ClearTimeOut. User Can set a timer of 20 seconds, 30 seconds,40 seconds or 1 minuite. Have a moment of peace !!</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Peace-Timer-dynamic-web-application-5">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://peacetimer1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Select Your Pet</summary>
+    <h3>Project Title: Select Your Pet <img width="200" height="200" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/select-your-pet-v1.gif"></h3>
+    <h3>Project description:</h3><p> Based on the user input pet animals keep changing on the web page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Select-your-Pet-dynamic-webapplication-15">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://selectpet1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>MCQ Exam</summary>
+    <h3>Project Title: MCQ Exam <img width="230" height="200" src="https://biochemjm.files.wordpress.com/2013/03/multiple-choice.gif"></h3>
+    <h3>Project description:</h3><p> A sample MCQ exam that checkes whether the given answer is correct or not. If a wrong option is given it raises a error.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Answer-Question-dynamic-webapplication-16">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://mcqsample.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Add User Form</summary>
+    <h3>Project Title: Add User Form<img width="180" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/add-user-1-v1.gif"></h3>
+    <h3>Project description:</h3><p> Take the input from the user as input for the form. Sinse it a sample web application I used event.preventDefault() that prevents navigation of the page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/add-user-dynamic-webapplication-17">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://fetchadduser1.ccbp.tech/">Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Bomb Defuser</summary>
+    <h3>Project Title: Bomb Defuser <img width="200" height="200" src="https://media4.giphy.com/media/zDndiKxJVlpRe8Hsi9/giphy.gif"></h3>
+    <h3>Project description:</h3><p> A bomb defuse dynamic web application. On entering a defuse text in text area then we get success text else we get boom !!. The application is developed using setTimeOut and clearTimeOut Web API's </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Bomb-Defuser-dynamic-webapplication-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://bombdefuser1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Theme Switcher</summary>
+    <h3>Project Title: Theme Switcher <img width="150" height="250" src="https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/change-theme-v1.gif"></h3>
+    <h3>Project description:</h3><p> A responsive dynamic web application that changes background image based on user input. If the user enters "light" background images id day light or if input text is "dark" the background changes to night image. The web application is developed using the concepts of AddEventListener "keyup" abd "keydown</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Theme-Switcher-dynamic-webapplication-6">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://themeswitcher1.ccbp.tech/"> Click Me ! </a></h3>
+  </details>
+  
+  
+  
+  <details>
+    <summary>Chat Bot Sample </summary>
+    <h3>Project Title: Chat Bot <img width="280" height="180" src="https://www.ismartrecruit.com/images/features/Chat-Bot.gif"></h3>
+    <h3>Project description:</h3><p> A sample Chat bot web application. On click send butoon the bot leaves a Random message from its set of input instructions.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/chat-bot-dynamic-webapplication-3">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://tchatborandom.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary>Word Cloud</summary>
+    <h3>Project Title: Word Cloud <img width="300" height="250" src="https://user-images.githubusercontent.com/3344878/68630057-f3347f00-049a-11ea-835f-87a00af4a015.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application that is used to add user input word to the home page cloud of words of random size.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/word-cloud-dynamic-webapplication-2">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://wordcloud1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+   <details>
+    <summary> Counter </summary>
+    <h3>Project Title: Counter <img width="250" height="250" src="https://i.pinimg.com/originals/22/f7/b5/22f7b509b81c078b247ab6aeeb28bd27.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application when the counter increment button is clicked it increases the number. on reset click the number is reset to 0. On decrement button numbers decrease.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/counter-javascript">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://counterweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary> Guess The Number </summary>
+    <h3>Project Title: Guess The Number <img width="150" height="150" src="https://i.pinimg.com/originals/ce/4c/9d/ce4c9d67fb6174aa268bf7e71c12b8ff.gif"></h3>
+    <h3>Project description:</h3><p> A dynamic web application to guess the number based on hint on entering every number</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/guess-the-number-dynamic-webapplication">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://guessnumweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Image Resizing</summary>
+    <h3>Project Title: Image Resizing </h3>
+    <h3>Project description:</h3><p> A dynamic website when the user clicks + button the size of image increases and on click - image size decreases</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/dynamic-image-sizing">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://imageresizing.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
+  
+  
+  
+</details>
+</br>
+<hr>
+
+
+
+
+</br></br> </br>
+<h2>NodeJS and ExpressJS<img width="300" height="200" src="https://images.squarespace-cdn.com/content/v1/58d20c79725e25b221549193/1608020490393-RBHFYWZAECA6UCJMX7FK/ke17ZwdGBToddI8pDm48kPnO25x_0D7Q7bnjAXV1CuQUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcG25jZDss3MiB3Gtm3qyn6MVUsQGdmxw0s7c2O3zDIgqCtRp49rkTLg7i7ubomNF8/Integrate+CI+CD.gif?format=750w"></h2>
+</br>
+<details>
+  <summary> NodeJs and ExpressJS </summary>
+   
+  
+  <details>
+    <summary>Covid 19 Authentication API's ExpressJS</summary>
+    <h3>Project Title: Covid 19 Authentication API's ExpressJS <img width="280" height="180" src="https://1.bp.blogspot.com/-0pliOswf4SM/X2pP6r_Z9aI/AAAAAAAAPsg/mjnLVCSi4ysK9r6SPMYG12p3GQCiSE52wCLcBGAsYHQ/s0/unnamed%2B%25282%2529.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where only authenticated users can perform any operation on the database. JWT Tokens are used to verify users and only if user has valid JWT token he can perform operations on the database. Middleware functions are used to authenticate. Refer 
+    <a href="https://github.com/kasivivekkasivivek/covid19-authentication-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/covid19-authentication-expressJS-application">Source Code Git Hub <img width="100" height="100" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></a></h3>
+  </details>
+  
+  <details>
+    <summary> User Authentication API's ExpressJS</summary>
+    <h3>Project Title: User Authentication API's ExpressJS <img width="300" height="210" src="https://i.pinimg.com/originals/ff/58/1b/ff581bbb041f2b2ecbd44dd097c1dbc6.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various authentication operations on the data base like creating the user identity( user registration), updating the password or changing passwords and user login. Passwords are encrypted before they are stored into the data base using nodeJS packages. Refer 
+    <a href="https://github.com/kasivivekkasivivek/user-authentication-expressjs-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/user-authentication-expressjs-application">Source Code Git Hub</a>
+    <img width="100" heigh="100" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif"></h3>
+  </details>
+  
+
+  <details>
+    <summary>Todo Application API's ExpressJS</summary>
+    <h3>Project Title: Todo Application API's ExpressJS <img width="250" height="250" src="https://media.tenor.com/images/90dea47d48ab74dc47ea6b603f2175ce/tenor.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters. Refer 
+    <a href="https://github.com/kasivivekkasivivek/Todo-Application-nodejs#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Todo-Application-nodejs">Source Code Git Hub</a> <img width="100" heigh="100" src="https://camo.githubusercontent.com/1230fca05585499fa662315c25aebf9d1ac9c72a00c47ed8fed2421c97418b3e/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d3373526c393931582d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f74656e7461636c65732e67696625334672617725334474727565"></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Player Match Scores APIS</summary>
+    <h3>Project Title: Player Match Scores APIS <img width="250" height="250" src="https://miro.medium.com/max/2400/1*_JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
+    <h3>Project description:</h3><p>Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters. Refer 
+    <a href="https://github.com/kasivivekkasivivek/player-match-scores-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/player-match-scores-expressJS-application">Source Code Git Hub</a></h3>
+  </details>
+  
+  <details>
+    <summary>Covid 19 Tracker India ExpressJS Application</summary>
+    <h3>Project Title: Covid 19 Tracker India ExpressJS Application<img width="200" height="200" src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif"></h3>
+    <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
+    <a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/covid-19-india-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif"></h3>
+  </details>
+  
+  <details>
+    <summary>Movies and Directors API</summary>
+    <h3>Project Title: Movies and Directors API <img width="250" height="250" src="https://m.gifmania.co.uk/Movies-Cinema-Animated-Gifs/Animated-Film-Directors/Cartoon-Film-Directors/Director-Shouting-Action-82171.gif"></h3>
+    <h3>Project description:</h3><p> Sample APIs are created using NodeJS, ExpressJS , SQLite where the user can perform various operations on the database like GET(read) , POST(create) , PUT(update) and delete. These APIS can retrieve various queries using path parameters and query parameters.Refer 
+    <a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/movies-director-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"></h3>
+  </details>
+  
+  <details>
+    <summary> Cricket Team API's</summary>
+    <h3>Project Title: Cricket Team <img width="150" height="150" src="https://www.influencermarketingsingapore.com/wp-content/uploads/2018/04/1__JJTknJYPxJPLNEEB3jh7Q.gif"></h3>
+    <h3>Project description:</h3><p>A sample API is created using NodeJS , ExpressJS and sqlite. The API allows user to retrieve data from cricket team database and also allows to perform various create(POST) , PUT(update) and delete operations. Refer 
+    <a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application#readme">ReadMe</a> for better Understanding</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/cricket-team-expressJS-application">Source Code Git Hub</a>
+    <img width="100" height="100" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"></h3>
+  </details>
+  
+  
+  
+</details>
+</br>
+<hr>
+
+
+
+
+</br> </br> 
+<h2> Responsive Web Aplications:         <img width="350" height="300" src="https://www.echovme.in/blog/wp-content/uploads/2017/05/web-development.gif"></h2>
+<details>
+  
+  <summary>Responsive Web Application</summary>
+  
+  
+  
+  <details>
+    <summary>Food Munch </summary>
+    <h3>Project Title: Food Munch <img width="250" height="250" src="https://i.pinimg.com/originals/c4/cb/9a/c4cb9abc7c69713e7e816e6a624ce7f8.gif"></h3>
+    <h3>Project description:</h3><p> A responsive Food Much website ( a home page similar to online food odering websites). The wesite has completly responsive nav bar and home page </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Food-Munch-Website-responsive-website-8">Source Code Git Hub 
+      <img width="250" height="100" src="https://i.pinimg.com/originals/8f/91/28/8f912896ac4922dab8bc6c4c3cbedc5b.gif">
+      </a></h3>
+    <h3>Live Demo :<a href="https://vivekfoodweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Food Application</summary>
+    <h3>Project Title: Food Application <img width="250" height="250" src="https://media0.giphy.com/media/3ohzdXFDqrLfSORwHu/giphy.gif"></h3>
+    <h3>Project description:</h3><p>A responsive Static food application</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/food-app-responsive-web-application">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://tastyfood.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+   <details>
+    <summary>Gallery Blog</summary>
+    <h3>Project Title: Gallery Blog <img width="100" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-output.gif"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v1-output.png"> <img width="250" height="200" src="https://assets.ccbp.in/frontend/content/intermediate-rwd/popular-blog-v2-output.png"></h3>
+    <h3>Project description:</h3><p> A responsive web application developed using the responsive bootstrap concepts.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Blog-responsive-webdesign-11">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://popularblog1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Weather Report </summary>
+    <h3>Project Title: Responsive Weather Report Application <img width="350" height="200" src="https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif"></h3>
+    <h3>Project description:</h3><p> A responsive Weather report application.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Weather-Report--section-responsive-webdesign-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://weatherreport.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Responsive Instagram Story Viewer</summary>
+    <h3>Project Title: <img width="200" height="200" src="https://i.pinimg.com/originals/d2/de/0a/d2de0a2189a609506b75689e265d5dc8.gif"></h3>
+    <h3>Project description:</h3><p> A static responsive web application of instagram story viewer and downloader web application.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Instagram-Story-Viewer-responsive-webdesign-12">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://instastoryview.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Responsive Static Page</summary>
+    <h3>Project Title: Responsive Static Page <img width="250" height="250" src="https://www.bignetworld.com/wp-content/uploads/2018/10/Responsive-Website-Designing.gif"></h3>
+    <h3>Project description:</h3><p> A static responsive Web Application of images and text.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Tools-Section-responsive-webdesign-9">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://toolssection1.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Responsive Explore deals and offers</summary>
+    <h3>Project Title: Explore deals and offers <img width="250" height="100" src="https://media.tenor.com/images/c95e9af8e309f947528af01a976402d6/tenor.gif"></h3>
+    <h3>Project description:</h3><p>A static home page of deals and offer section of website which is completly responsive in nature developed using the concepts of bootstrap.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Deals-offers-responsive-webdesign-7">Source Code Git Hub
+      <img width="150" height="100" src="https://i.pinimg.com/originals/8f/91/28/8f912896ac4922dab8bc6c4c3cbedc5b.gif"></a></h3>
+    <h3>Live Demo :<a href="https://dealsoffers.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary> Responsive NavBar Styles</summary>
+    <h3>Project Title: NavBar section <img width="150" height="250" src="https://freefrontend.com/assets/img/css-mobile-menus/mobile-nav-only-checkbox-CSS.gif"></h3>
+    <h3>Project description:</h3><p> A sample project to demonstrate how responsive navbar function </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Navbar-2-responsive-website-2">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://responsivenav2.ccbp.tech/"> Navbar Style 1</a></h3>
+    <h3><a href="https://github.com/kasivivekkasivivek/navbar-responsive-website-1">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://responsivebar.ccbp.tech/"> Navbar Style 1</a></h3>
+  </details>
+  
+  <details>
+    <summary>Shoes Mart</summary>
+    <h3>Project Title: Shoes Mart <img width="250" height="200" src="https://media1.giphy.com/media/3oEjHW5ZfmQsI2rUuk/giphy.gif"></h3>
+    <h3>Project description:</h3><p> A responsive shoes mart application </p>
+    <h3><a href="https://github.com/kasivivekkasivivek/shoes-mart-responsive-web-applications">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://vivekshoes.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary></summary>
+    <h3>Project Title: <img width="50" height="50" src=""></h3>
+    <h3>Project description:</h3><p> Refer 
+    <a href="">ReadMe</a> for better Understanding</p>
+    <h3><a href="">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href=""></a></h3>
+  </details>
+  
+</details>  
+</br>
+<hr> 
+</br></br> </br>
+<h2>Static Web Design <img width="300" height="200" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"></h2>
+</br>
+<details>
+  <summary>Static Website </summary>
+  
+  <details>
+    <summary>Yoga Page </summary>
+    <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/7553c7eabec98aaffda2e35c51bee730/tenor.gif"></h3>
+    <h3>Project description:</h3><p> A static Yoga Page. user can navigate from home page to sub page (different types of yoga).</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/static-yoga-page">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://yogaweb.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Static Podcast</summary>
+    <h3>Project Title: Static Podcast Page <img width="250" height="150" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F4cd95d60-a515-11e7-b797-b61809486fe2?fit=scale-down&source=next&width=700"></h3>
+    <h3>Project description:</h3><p> A pure static website which have navigation from specific podcast section to home page and wise versa.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/podcast-static-webpage-5">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticposdcast.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  
+  <details>
+    <summary>Static Testimonials</summary>
+    <h3>Project Title: Static Testimonials <img width="250" height="250" src="https://i.pinimg.com/originals/97/72/91/977291b89c52ce48da0def5ea4fc6410.gif"></h3>
+    <h3>Project description:</h3><p> A static testimonials website.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/static-Testimonials">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://restestimonials.ccbp.tech/"> Click Me ! </a></h3>
+  </details>
+  
+  <details>
+    <summary>Popular Books </summary>
+    <h3>Project Title: Popular Books <img width="200" height="150" src="http://www.animatedimages.org/data/media/53/animated-book-image-0032.gif"></h3>
+    <h3>Project description:</h3><p>A pure static website which can navigate on front and back on user interaction</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/books-store-static-webpage-7">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticbooksstor.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Book Your Flat</summary>
+    <h3>Project Title: Book Your Flat <img width="250" height="250" src="https://i.pinimg.com/originals/a5/2d/9b/a52d9ba54264337baa487a48141a1bcf.gif"></h3>
+    <h3>Project description:</h3><p> A static website where user can navigate from main page to 3 layes inside and back to home page.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/flats-page-static-website-9">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticflatspage.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+  <details>
+    <summary>Articles Page </summary>
+    <h3>Project Title: Articles Page </h3>
+    <h3>Project description:</h3><p> A static web site to navigate from home page to sub section pages.</p>
+    <h3><a href="https://github.com/kasivivekkasivivek/Articles-Page-static-website-10">Source Code Git Hub</a></h3>
+    <h3>Live Demo :<a href="https://staticarticles.ccbp.tech/"> Click Me !</a></h3>
+  </details>
+  
+</details>  
+<hr>
+
