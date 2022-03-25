@@ -545,7 +545,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <h3>Project description:</h3><p> A sample project to demonstrate how responsive navbar function </p>
     <h3><a href="https://github.com/FullStackDeveloper-Kiran/Navbar-2-responsive-website-2-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://responsivenav2.ccbp.tech/"> Navbar Style 1</a></h3>
-    <h3><a href="https://github.com/kasivivekkasivivek/navbar-responsive-website-1">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/Navbar-2-responsive-website-2-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://responsivebar.ccbp.tech/"> Navbar Style 1</a></h3>
   </details>
   
