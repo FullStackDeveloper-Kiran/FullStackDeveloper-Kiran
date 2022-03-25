@@ -579,7 +579,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Yoga Page </summary>
     <h3>Project Title: <img width="250" height="250" src="https://media.tenor.com/images/7553c7eabec98aaffda2e35c51bee730/tenor.gif"></h3>
     <h3>Project description:</h3><p> A static Yoga Page. user can navigate from home page to sub page (different types of yoga).</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/static-yoga-page">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/static-yoga-page-main.git">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://yogaweb.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
@@ -588,7 +588,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Static Podcast</summary>
     <h3>Project Title: Static Podcast Page <img width="250" height="150" src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F4cd95d60-a515-11e7-b797-b61809486fe2?fit=scale-down&source=next&width=700"></h3>
     <h3>Project description:</h3><p> A pure static website which have navigation from specific podcast section to home page and wise versa.</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/podcast-static-webpage-5">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/podcast-static-webpage-5-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://staticposdcast.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
@@ -597,7 +597,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Static Testimonials</summary>
     <h3>Project Title: Static Testimonials <img width="250" height="250" src="https://i.pinimg.com/originals/97/72/91/977291b89c52ce48da0def5ea4fc6410.gif"></h3>
     <h3>Project description:</h3><p> A static testimonials website.</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/static-Testimonials">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/static-Testimonials-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://restestimonials.ccbp.tech/"> Click Me ! </a></h3>
   </details>
   
@@ -605,7 +605,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Popular Books </summary>
     <h3>Project Title: Popular Books <img width="200" height="150" src="http://www.animatedimages.org/data/media/53/animated-book-image-0032.gif"></h3>
     <h3>Project description:</h3><p>A pure static website which can navigate on front and back on user interaction</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/books-store-static-webpage-7">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/books-store-static-webpage-7-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://staticbooksstor.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
@@ -613,7 +613,7 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Book Your Flat</summary>
     <h3>Project Title: Book Your Flat <img width="250" height="250" src="https://i.pinimg.com/originals/a5/2d/9b/a52d9ba54264337baa487a48141a1bcf.gif"></h3>
     <h3>Project description:</h3><p> A static website where user can navigate from main page to 3 layes inside and back to home page.</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/flats-page-static-website-9">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/flats-page-static-website-9-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://staticflatspage.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
@@ -621,10 +621,9 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <summary>Articles Page </summary>
     <h3>Project Title: Articles Page </h3>
     <h3>Project description:</h3><p> A static web site to navigate from home page to sub section pages.</p>
-    <h3><a href="https://github.com/kasivivekkasivivek/Articles-Page-static-website-10">Source Code Git Hub</a></h3>
+    <h3><a href="https://github.com/FullStackDeveloper-Kiran/Articles-Page-static-website-10-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://staticarticles.ccbp.tech/"> Click Me !</a></h3>
   </details>
   
 </details>  
 <hr>
-
