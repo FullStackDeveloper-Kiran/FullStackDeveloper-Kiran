@@ -88,6 +88,11 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
 <h3 align="center">TECH STACK</h3
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+  
+  ### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
   
 <h3 align="center">OTHERS</h3>
