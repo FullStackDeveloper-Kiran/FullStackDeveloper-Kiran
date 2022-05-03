@@ -92,9 +92,6 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
 <h3 align="center">OTHERS</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> 
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstackdeveloper-kiran&show_icons=true&locale=en&layout=compact" alt="fullstackdeveloper-kiran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackdeveloper-kiran&show_icons=true&locale=en" alt="fullstackdeveloper-kiran" /></p>
@@ -298,8 +295,6 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
     <h3><a href="https://github.com/FullStackDeveloper-Kiran/movies-app-dynamic-web-application-main">Source Code Git Hub</a></h3>
     <h3>Live Demo :<a href="https://moviesapp.ccbp.tech/"> Click Me !</a></h3>
   </details>
-  
-  
   
    <details>
     <summary>ToDo Web Application</summary>
