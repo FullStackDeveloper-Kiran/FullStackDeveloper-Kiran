@@ -1,3 +1,10 @@
+![GitHub followers](https://img.shields.io/github/followers/FullStackDeveloper-Kiran?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
+
+
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <h3 align="center">A Passionate Database Developer</h3>
