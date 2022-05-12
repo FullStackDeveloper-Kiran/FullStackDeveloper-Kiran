@@ -33,11 +33,29 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
 - 👨‍💻 All of my projects are available at [https://codepen.io/fullstackdeveloper-kiran](https://codepen.io/fullstackdeveloper-kiran)
 
 </br>
+
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/kiran-m-097864185/" target="blank"><img align="center" width="100" height="100" src="http://media-cache-ec0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="Kiran" height="30" width="40" /></a>
 </p>
 </br>
+
+<h2 align="center">Github Activities </h2>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FullStackDeveloper-Kiran&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FullStackDeveloper-Kiran&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FullStackDeveloper-Kiran&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FullStackDeveloper-Kiran&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FullStackDeveloper-Kiran&theme=gruvbox&utcOffset=8)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstackdeveloper-kiran&show_icons=true&locale=en&layout=compact" alt="fullstackdeveloper-kiran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstackdeveloper-kiran&" alt="fullstackdeveloper-kiran" /></p>
+
+
+
+
 
 <h1 align="center">Languages and Tools:</h1>
 
@@ -102,12 +120,6 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
   
 <h3 align="center">OTHERS</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fullstackdeveloper-kiran&show_icons=true&locale=en&layout=compact" alt="fullstackdeveloper-kiran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fullstackdeveloper-kiran&show_icons=true&locale=en" alt="fullstackdeveloper-kiran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fullstackdeveloper-kiran&" alt="fullstackdeveloper-kiran" /></p>
 
 <h2>ReactJS Projects <img src="https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png" alt="react" width="250" height="250"/>
  </h2>
