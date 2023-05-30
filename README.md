@@ -14,6 +14,9 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 <h3 align="center">A Passionate UI-UX DESIGNER</h3>
 
+![image](https://github.com/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran/assets/94104935/28ad8d36-75cf-4901-bfb0-bc49c62409dc)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fullstackdeveloper-kiran&label=Profile%20views&color=0e75b6&style=flat" alt="fullstackdeveloper-kiran" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fullstackdeveloper-kiran" alt="fullstackdeveloper-kiran" /></a> </p>
