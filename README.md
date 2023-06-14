@@ -4,7 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
 
-![GitHub metrics](https://metrics.lecoq.io/FullStackDeveloper-Kiran)  
+
+
 
 
 <div id="header" align="center">
@@ -46,6 +47,9 @@ CouchDB, Neo4j, OrientDB, Couchbase, FileMaker, informix, MongoDB, Redis, Orient
 </p>
 </br>
 
+
+![GitHub metrics](https://metrics.lecoq.io/FullStackDeveloper-Kiran)  
+[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FullStackDeveloper-Kiran&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="center">Github Activities </h2>
 
 
