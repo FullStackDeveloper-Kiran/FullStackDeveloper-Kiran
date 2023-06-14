@@ -4,6 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/FullStackDeveloper-Kiran/FullStackDeveloper-Kiran?style=social)
 
+![GitHub metrics](https://metrics.lecoq.io/FullStackDeveloper-Kiran)  
+
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/f7/c8/6e/f7c86e14ddab0b4117994bd5f5385a98.gif" width="500"/>
